@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+#p1{
+    color: rgb(12, 88, 63);
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.paragraph1{
+    color: black;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.topnav{
+    background-color: brown;
+}
